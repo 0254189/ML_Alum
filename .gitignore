@@ -1,1 +1,8 @@
-/2_linear_reg_multivariate
+
+
+
+.DS_Store
+model_joblib
+model_pickle
+
+model_vars.pkl
